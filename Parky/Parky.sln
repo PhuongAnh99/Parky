@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkyAPI", "ParkyAPI\ParkyAPI.csproj", "{8D882303-6F24-43E9-AA81-43B2B9C327BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkyWeb", "ParkyWeb\ParkyWeb.csproj", "{DCD4E128-9283-4740-A823-74F2BAC8B8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D882303-6F24-43E9-AA81-43B2B9C327BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D882303-6F24-43E9-AA81-43B2B9C327BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D882303-6F24-43E9-AA81-43B2B9C327BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D882303-6F24-43E9-AA81-43B2B9C327BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD4E128-9283-4740-A823-74F2BAC8B8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD4E128-9283-4740-A823-74F2BAC8B8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD4E128-9283-4740-A823-74F2BAC8B8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD4E128-9283-4740-A823-74F2BAC8B8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE406B2-39C8-47E3-8788-509B56547E6C}
+	EndGlobalSection
+EndGlobal
